@@ -3,6 +3,6 @@ figures/Screen Shot 2015-02-17 at 3.03.22 PM/Screen Shot 2015-02-17 at 3.03.22 P
 LaTeX Rant.tex
 Kathryn's Block.tex
 Kaity's Section.tex
-Bonnie's new section?.tex
+?.tex
 figures/tracts/tracts.png
 Attempting some text.html
