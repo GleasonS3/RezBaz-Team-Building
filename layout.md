@@ -4,6 +4,7 @@ Scott's Block.tex
 Kathryn's Block.tex
 Kaity's Section.tex
 figures/Dinosaur Love!/Dinosaur Love!.jpg
+figures/Untitled3/Untitled3.png
 ?.tex
 figures/tracts/tracts.png
 Copy Section.tex
