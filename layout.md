@@ -5,4 +5,5 @@ Kathryn's Block.tex
 Kaity's Section.tex
 ?.tex
 figures/tracts/tracts.png
+Copy Section.tex
 Attempting some text.html
