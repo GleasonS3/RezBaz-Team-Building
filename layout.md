@@ -1,6 +1,7 @@
 untitled.tex
 figures/Screen Shot 2015-02-17 at 3.03.22 PM/Screen Shot 2015-02-17 at 3.03.22 PM.png
 Scott's Block.tex
+figures/IMG_9004/IMG_9004.JPG
 Kathryn's Block.tex
 Kaity's Section.tex
 figures/Dinosaur Love!/Dinosaur Love!.jpg
