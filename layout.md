@@ -8,4 +8,5 @@ figures/Untitled3/Untitled3.png
 More of Kaity&#x27;s Section.tex
 figures/tracts/tracts.png
 Copy Section.tex
+misc_Authorea_author_Authorea_title__.tex
 Attempting some text.html
